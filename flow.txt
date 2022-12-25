@@ -1,0 +1,16 @@
+ok basically
+
+
+dataManual -> Where we set up the soptipy API and the data gathering
+    .cache
+    .cache-weiceica
+    autorization.py
+    gatherData.py
+    playlistData.json
+scriptsManual -> Where we optain data from random playlists, and obtain audio features of all the songs in the playlist
+    cleanse.ipynb
+    cleansed_data.csv
+    convert.py
+    Datalearning.ipynb #TODO -> Generate features data based on the playlist
+    rawData.csv
+streaming -> my complete set of streaming history data
